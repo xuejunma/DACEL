@@ -2,6 +2,6 @@
  
 - example1codeCI.R  has four functions: lm.model，SDB.lm，BLB.lm  and lm.boot.  Their usages are in "example1codeCI-readme.txt"
 - example1codeCI.R  has five functions: lm.model，SDB.lm，BLB.lm,  lm.boot and twostep. Their usages are in "example2codeCI-readme.txt"
-- Running example1.R get the results of example 1 
-- Running example2.R get the results of example 2
+-  example1.R is the Rcode of example 1 
+-  example2.R is the Rcode of example 2
 
